@@ -10,7 +10,7 @@ Syrian Hamster
 Dwarf Hamster%
 ❯ cat > Pack animals
 cat: animals: No such file or directory
-❯ cat > Pack_animals
+❯ cat > Pack_animals.
 horse
 camel
 donkey%
